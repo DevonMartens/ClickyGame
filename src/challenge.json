@@ -1,0 +1,162 @@
+[
+    {
+          "id": 1,
+          "characterName": "HomerSimpson",
+          "characterImage": "HomerSimpson.png"
+    },
+    {
+          "id": 2,
+          "characterName": "BartSimpson",
+          "characterImage": "BartSimpson.png"
+    },
+    {
+          "id": 3,
+          "characterName": "MargeSimpson",
+          "characterImage": "MargeSimpson.png"
+    },
+    {
+          "id": 4,
+          "characterName": "LisaSimpson",
+          "characterImage": "LisaSimpson.png"
+    },
+    {
+          "id": 5,
+          "characterName": "MrBurns",
+          "characterImage": "MrBurns.png"
+    },
+    {
+          "id": 6,
+          "characterName": "ApuNahasapeemapetilon",
+          "characterImage": "ApuNahasapeemapetilon.png"
+    },
+    {
+          "id": 7,
+          "characterName": "NedFlanders",
+          "characterImage": "NedFlanders.png"
+    },
+    {
+          "id": 8,
+          "characterName": "MilhouseVanHouten",
+          "characterImage": "MilhouseVanHouten.png"
+    },
+    {
+          "id": 9,
+          "characterName": "MoeSzyslack",
+          "characterImage": "MoeSzyslack.png"
+    },
+    {
+          "id": 10,
+          "characterName": "NelsonMuntz",
+          "characterImage": "NelsonMuntz.png"
+    },
+    {
+          "id": 11,
+          "characterName": "KrustytheClown",
+          "characterImage": "KrustytheClown.png"
+    },
+    {
+          "id": 12,
+          "characterName": "EdnaKrabappel",
+          "characterImage": "EdnaKrabappel1.png"
+    }, 
+    {
+        "id": 13,
+        "characterName": "WaylonSmithers",
+        "characterImage": "WaylonSmithers.png"
+  },
+  {
+        "id": 14,
+        "characterName": "BarneyGumble",
+        "characterImage": "BarneyGumble.png"
+  },
+  {
+        "id": 15,
+        "characterName": "RalphWiggum",
+        "characterImage": "RalphWiggum.png"
+  },
+  {
+        "id": 16,
+        "characterName": "PrincipalSkinner",
+        "characterImage": "PrincipalSkinner.png"
+  },
+  {
+        "id": 17,
+        "characterName": "GrandpaSimpson",
+        "characterImage": "GrandpaSimpson.png"
+  },
+  {
+        "id": 18,
+        "characterName": "ComicBookGuy",
+        "characterImage": "ComicBookGuy.png"
+  },
+  {
+        "id": 19,
+        "characterName": "FatTony",
+        "characterImage": "FatTony.png"
+  },
+  {
+        "id": 20,
+        "characterName": "MartinPrince",
+        "characterImage": "MartinPrince.png"
+  },
+  {
+        "id": 21,
+        "characterName": "SantasLittleHelper",
+        "characterImage": "SantasLittleHelper.png"
+  },
+  {
+        "id": 22,
+        "characterName": "GroundsKeeperWillie",
+        "characterImage": "GroundsKeeperWillie.png"
+  },
+  {
+        "id": 23,
+        "characterName": "TroyMcClure",
+        "characterImage": "TroyMcClure.png"
+  },
+  {
+        "id": 24,
+        "characterName": "LennyLeonard",
+        "characterImage": "LennyLeonard.png"
+  },
+{
+      "id": 25,
+      "characterName": "HansMoleman",
+      "characterImage": "HansMoleman.png"
+},
+{
+      "id": 26,
+      "characterName": "HerbertPowell",
+      "characterImage": "HerbertPowell.png"
+},
+{
+      "id": 27,
+      "characterName": "ChiefWiggum",
+      "characterImage": "ChiefWiggum.png"
+},
+{
+      "id": 28,
+      "characterName": "PattyBouvier",
+      "characterImage": "PattyBouvier.png"
+},
+{
+      "id": 29,
+      "characterName": "DanGillick",
+      "characterImage": "DanGillick.png"
+},
+{
+      "id": 30,
+      "characterName": "DrHibbert",
+      "characterImage": "DrHibbert.png"
+},
+{
+      "id": 31,
+      "characterName": "MaudeFlanders",
+      "characterImage": "MaudeFlanders.png"
+},
+{
+      "id": 32,
+      "characterName": "SideShowMel",
+      "characterImage": "SideShowMel.png"
+}
+]

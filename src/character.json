@@ -1,0 +1,62 @@
+[
+    {
+          "id": 1,
+          "characterName": "SantasLittleHelper",
+          "characterImage": "SantasLittleHelper.png"
+    },
+    {
+          "id": 2,
+          "characterName": "WaylonSmithers",
+          "characterImage": "WaylonSmithers.png"
+    },
+    {
+          "id": 3,
+          "characterName": "MilhouseVanHouten",
+          "characterImage": "MilhouseVanHouten.png"
+    },
+    {
+          "id": 4,
+          "characterName": "ComicBookGuy",
+          "characterImage": "ComicBookGuy.png"
+    },
+    {
+          "id": 5,
+          "characterName": "DrHibbert",
+          "characterImage": "DrHibbert.png"
+    },
+    {
+          "id": 6,
+          "characterName": "DanGillick",
+          "characterImage": "DanGillick.png"
+    },
+    {
+          "id": 7,
+          "characterName": "HansMoleman",
+          "characterImage": "HansMoleman.png"
+    },
+    {
+          "id": 8,
+          "characterName": "ApuNahasapeemapetilon",
+          "characterImage": "ApuNahasapeemapetilon.png"
+    },
+    {
+          "id": 9,
+          "characterName": "BartSimpson",
+          "characterImage": "BartSimpson.png"
+    },
+    {
+          "id": 10,
+          "characterName": "FatTony",
+          "characterImage": "FatTony.png"
+    },
+    {
+          "id": 11,
+          "characterName": "GrandpaSimpson",
+          "characterImage": "GrandpaSimpson.png"
+    },
+    {
+          "id": 12,
+          "characterName": "KrustytheClown",
+          "characterImage": "KrustytheClown.png"
+    }
+]
