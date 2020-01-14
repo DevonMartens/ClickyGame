@@ -1,0 +1,92 @@
+[
+    {
+          "id": 1,
+          "characterName": "LisaSimpson",
+          "characterImage": "LisaSimpson.png"
+    },
+    {
+          "id": 2,
+          "characterName": "NedFlanders",
+          "characterImage": "NedFlanders.png"
+    },
+    {
+          "id": 3,
+          "characterName": "MoeSzyslack",
+          "characterImage": "MoeSzyslack.png"
+    },
+    {
+          "id": 4,
+          "characterName": "RalphWiggum",
+          "characterImage": "RalphWiggum.png"
+    },
+    {
+          "id": 5,
+          "characterName": "GroundsKeeperWillie",
+          "characterImage": "GroundsKeeperWillie.png"
+    },
+    {
+          "id": 6,
+          "characterName": "NelsonMuntz",
+          "characterImage": "NelsonMuntz.png"
+    },
+    {
+          "id": 7,
+          "characterName": "MartinPrince",
+          "characterImage": "MartinPrince.png"
+    },
+    {
+          "id": 8,
+          "characterName": "TroyMcClure",
+          "characterImage": "TroyMcClure.png"
+    },
+    {
+          "id": 9,
+          "characterName": "LennyLeonard",
+          "characterImage": "LennyLeonard.png"
+    },
+    {
+          "id": 10,
+          "characterName": "MargeSimpson",
+          "characterImage": "MargeSimpson.png"
+    },
+    {
+          "id": 11,
+          "characterName": "HomerSimpson",
+          "characterImage": "HomerSimpson.png"
+    },
+    {
+          "id": 12,
+          "characterName": "MrBurns",
+          "characterImage": "MrBurns.png"
+    }, 
+    {
+        "id": 13,
+        "characterName": "MilhouseVanHouten",
+        "characterImage": "MilhouseVanHouten.png"
+  },
+  {
+        "id": 14,
+        "characterName": "NelsonMuntz",
+          "characterImage": "NelsonMuntz.png"
+  },
+  {
+        "id": 15,
+        "characterName": "EdnaKrabappel",
+          "characterImage": "EdnaKrabappel1.png"
+  },
+  {
+        "id": 16,
+        "characterName": "RalphWiggum",
+        "characterImage": "RalphWiggum.png"
+  },
+  {
+        "id": 17,
+        "characterName": "BarneyGumble",
+        "characterImage": "BarneyGumble.png"
+  },
+  {
+        "id": 18,
+        "characterName": "HerbertPowell",
+        "characterImage": "HerbertPowell.png"
+  }
+]
