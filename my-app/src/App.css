@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* FOR CARD COMPONENT */
+.character {
+  width: 100px;
+  height: 100px;
+  position: center;
+  margin: auto;
+}
+
+.card {
+  background-color: lightblue;
+  margin: 10px;
+  width: 200px;
+}

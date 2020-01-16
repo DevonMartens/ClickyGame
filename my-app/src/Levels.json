@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "name": "Simple",
+    "characterImage": "HomerSimpson.png"
+},
+{
+    "id": 2,
+    "name": "Normal",
+    "characterImage": "BartSimpson.png"
+},
+{
+    "id": 4,
+    "name": "Challenge",
+    "characterImage": "LisaSimpson.png"
+}]

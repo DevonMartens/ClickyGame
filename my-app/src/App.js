@@ -7,16 +7,16 @@ import Card from "./components/Card";
 import Footer from "./components/Footer";
 
 import levels from "./Levels.json"
-import Simple from "./Character.json";
+import Simple from "./character.json";
 import Normal from "./Character2.json";
-import Challenge from "./Challenge.json";
+import Challenge from "./challenge.json";
 // import secondList from "./Character.json";
 
 
 class App extends Component {
   state = {
     levels,
-    characters: Simple,
+    characters: [],
     wasClicked: false,
     idArr: [],
     totalClicks: 1,
@@ -119,8 +119,7 @@ class App extends Component {
             <Buttons
               id={level.id}
               name={level.name}
-              para={level.para}
-              image={level.image}
+              characterImage={level.characterImage}
               difficulty={this.difficulty}
             />
           )
