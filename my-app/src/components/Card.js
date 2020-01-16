@@ -10,7 +10,7 @@ function Card(props) {
           
           <img className="character" src={"assets/images/" + props.characterImage} alt="character" />
           <div id="character-name" key={props.id}>{props.characterName}</div>
-        {/* </div> */}
+    
       </div>
   );
 }

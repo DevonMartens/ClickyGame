@@ -1,62 +1,62 @@
 [
     {
           "id": 1,
-          "characterName": "SantasLittleHelper",
+          "characterName": "Santas Little Helper",
           "characterImage": "SantasLittleHelper.png"
     },
     {
           "id": 2,
-          "characterName": "WaylonSmithers",
+          "characterName": "Waylon Smithers",
           "characterImage": "WaylonSmithers.png"
     },
     {
           "id": 3,
-          "characterName": "MilhouseVanHouten",
+          "characterName": "Milhouse Van Houten",
           "characterImage": "MilhouseVanHouten.png"
     },
     {
           "id": 4,
-          "characterName": "ComicBookGuy",
+          "characterName": "Comic Book Guy",
           "characterImage": "ComicBookGuy.png"
     },
     {
           "id": 5,
-          "characterName": "DrHibbert",
+          "characterName": "Dr. Hibbert",
           "characterImage": "DrHibbert.png"
     },
     {
           "id": 6,
-          "characterName": "DanGillick",
+          "characterName": "Dan Gillick",
           "characterImage": "DanGillick.png"
     },
     {
           "id": 7,
-          "characterName": "HansMoleman",
+          "characterName": "Hans Moleman",
           "characterImage": "HansMoleman.png"
     },
     {
           "id": 8,
-          "characterName": "ApuNahasapeemapetilon",
+          "characterName": "Apu Nahasapeemapetilon",
           "characterImage": "ApuNahasapeemapetilon.png"
     },
     {
           "id": 9,
-          "characterName": "BartSimpson",
+          "characterName": "Bart Simpson",
           "characterImage": "BartSimpson.png"
     },
     {
           "id": 10,
-          "characterName": "FatTony",
+          "characterName": "Fat Tony",
           "characterImage": "FatTony.png"
     },
     {
           "id": 11,
-          "characterName": "GrandpaSimpson",
+          "characterName": "Grandpa Simpson",
           "characterImage": "GrandpaSimpson.png"
     },
     {
           "id": 12,
-          "characterName": "KrustytheClown",
+          "characterName": "Krusty the Clown",
           "characterImage": "KrustytheClown.png"
     }
 ]
