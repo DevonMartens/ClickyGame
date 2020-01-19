@@ -18,11 +18,11 @@
     "eject": "react-scripts eject"
   },
   "homepage": "https://devonmartens.github.io/ClickyGame/",
-  "main": "App.js",
+  "main": "src/components/App.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevonMartens/ClickyGame.git"
+    "url": "https://devonmartens.github.io/ClickyGame/"
   },
   "author": "",
   "license": "ISC",
