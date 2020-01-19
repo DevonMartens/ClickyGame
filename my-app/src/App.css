@@ -63,6 +63,26 @@
 }
 
 .levels {
- float: left;
  text-align: center;
+ border: black;
+ border-width: thick;
+ margin: 15px;
 }
+
+.nav {
+  background: #f4d331;
+ color: #6fbae2;
+ font-weight: bold;
+
+}
+
+.directions {
+  padding: 15px;
+}
+
+.game-info-container {
+
+  padding: 15px;
+}
+
+ 

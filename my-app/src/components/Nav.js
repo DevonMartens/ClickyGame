@@ -3,7 +3,7 @@ import React from "react";
 function Nav(props) {
   return (
 
-    <nav>
+    <nav className="nav">
       <div className="game-name">
         Clicky Game
         </div>

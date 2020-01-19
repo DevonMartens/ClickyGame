@@ -1,15 +1,15 @@
 [{
     "id": 1,
-    "name": "Simple",
+    "name": "Simpleton",
     "characterImage": "HomerSimpson.png"
 },
 {
     "id": 2,
-    "name": "Normal",
+    "name": "Not Neanderthal",
     "characterImage": "BartSimpson.png"
 },
 {
     "id": 4,
-    "name": "Challenge",
+    "name": "A+ Student",
     "characterImage": "LisaSimpson.png"
 }]
