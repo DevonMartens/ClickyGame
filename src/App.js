@@ -34,12 +34,12 @@ class App extends Component {
 
   difficulty = (name) => {
     console.log(name)
-    if (name === "Simple") {
+    if (name === "Simpleton") {
       this.setState({
         characters: Simple
       })
       document.querySelector(".directions").textContent = `You are now in Nice and Easy Mode...12 Characters Loaded!`
-    } else if (name === "Normal") {
+    } else if (name === "Not Neanderthal") {
       this.setState({
         characters: Normal
       }) 
