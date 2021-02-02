@@ -15,6 +15,7 @@ function Nav(props) {
         Score <span id="score">0</span> &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;
                 Top Score <span id="top-score">0</span>
       </div>
+      
     </nav>
 
   );
