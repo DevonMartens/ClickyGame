@@ -69,12 +69,13 @@
  margin: 15px;
 }
 
+
 .nav {
-  
+  text-align: center;
   background: #f4d331;
  color: #0c0d0e;
  font-weight: bold;
-
+ font-family: Monospace, Lucida Console;
 
 }
 
@@ -93,5 +94,15 @@ body {
   background: url(https://ideaexchange.org/sites/default/files/styles/original/public/iStock-483883392_0517_ADULTsimpsons.jpg?itok=CqcjLnqI);
 
   background-size: auto;
+
+}
+
+.container {
+  text-align: center;
+}
+
+.character {
+padding: 15px;
+background-color: #f4d331;
 
 }
